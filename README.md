@@ -40,12 +40,16 @@ where `a = 1` and `b = 100`. This is a common test problem used for optimization
    git clone https://github.com/yourusername/optimization-visualization.git
 
 **Convergence Plot**
+![convergence](https://github.com/user-attachments/assets/839b08b5-ce5e-4688-8a5d-50e7fee98139)
 
 
 **3D Surface Plot**
+![cover](https://github.com/user-attachments/assets/62b881a7-4b31-4f61-8cef-dd1bc145f3c8)
 
 
 **Histogram**
+![his](https://github.com/user-attachments/assets/4d3ec7d1-6139-401d-98f1-68885033ff8a)
+
 
 ## Future Improvements
 In the future, we can explore more complex optimization problems and improve the visualizations.
