@@ -29,15 +29,6 @@ where `a = 1` and `b = 100`. This is a common test problem used for optimization
   - **3D Surface Plot**: Shows the function’s surface and the optimization path.
   - **Histogram**: Shows how the objective values are distributed.
 
-## Requirements
-
-- MATLAB (no extra toolboxes needed)
-
-## How to Use
-
-1. Clone the project:
-   ```bash
-   git clone https://github.com/yourusername/optimization-visualization.git
 
 **Convergence Plot**
 ![convergence](https://github.com/user-attachments/assets/839b08b5-ce5e-4688-8a5d-50e7fee98139)
